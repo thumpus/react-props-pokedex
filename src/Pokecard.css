@@ -1,0 +1,11 @@
+.Pokecard {
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: gray;
+    display: inline-block;
+    margin: 5px;
+    width: 150px;
+    padding-bottom: 25px; 
+    border-radius: 10px;
+}
